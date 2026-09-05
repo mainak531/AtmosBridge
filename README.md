@@ -241,7 +241,10 @@ Open-source under the **Apache 2.0 License**. See [LICENSE](./LICENSE) for the f
 
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bc62d4d2f085f4bac2fd83f63c60634247c92ccc
 
 <div align="center">
 
