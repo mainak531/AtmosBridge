@@ -241,17 +241,6 @@ Open-source under the **Apache 2.0 License**. See [LICENSE](./LICENSE) for the f
 
 ---
 
-## 👤 Author & Contributor
-
-**Arup Das** (Lead Author)
-B.Tech CSE (AI/ML), Brainware University, Kolkata
-- GitHub: [@arupdas0825](https://github.com/arupdas0825)
-- Portfolio: [arup-portfolio-seven.vercel.app](https://arup-portfolio-seven.vercel.app)
-- Email: arupworks.at@gmail.com
-
-**Aditya Bar** (Contributor)
-B.Tech CSE (AI/ML), Brainware University, Kolkata
-- GitHub: [@adityabar07](https://github.com/adityabar07)
 
 <div align="center">
 
